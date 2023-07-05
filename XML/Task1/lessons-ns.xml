@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<myns:TimeTable xmlns:myns ="http://www.itmo.ru/xml/lessons" xmlns:lit="https:=//drive.google.com/drive/my-drive">
+<myns:item>
+    <Name>Технологии программирования</Name>
+    <Teacher>Ямщиков Д.В.</Teacher>
+    <StartDate>27.03.2023</StartDate>
+    <EndDate>11.04.2023</EndDate>
+    <NumberOfHours>45</NumberOfHours>
+    <FinalGrade>Зачет</FinalGrade>
+    <lit:Link>https:=//drive.google.com/drive/predmet01</lit:Link>
+  </myns:item>
+  <myns:item>
+    <Name>Программирование на C#</Name>
+    <Teacher>Осипов Н.А.</Teacher>
+    <StartDate>13.04.2023</StartDate>
+    <EndDate>04.05.2023</EndDate>
+    <NumberOfHours>50</NumberOfHours>
+    <FinalGrade>Зачет</FinalGrade>
+    <lit:Link>https:=//drive.google.com/drive/predmet02</lit:Link>
+  </myns:item>
+  <myns:item>
+    <Name>Разработка Windows-приложений на C#</Name>
+    <Teacher>Смольянинов А.В.</Teacher>
+    <StartDate>10.05.2023</StartDate>
+    <EndDate>31.05.2023</EndDate>
+    <NumberOfHours>50</NumberOfHours>
+    <FinalGrade>Экзамен</FinalGrade>
+    <lit:Link>https:=//drive.google.com/drive/predmet03</lit:Link>
+    </myns:item>
+  <myns:item>
+    <Name>Введение в базы данных</Name>
+    <Teacher>Осетрова И.С.</Teacher>
+    <StartDate>05.06.2023</StartDate>
+    <EndDate>23.06.2023</EndDate>
+    <NumberOfHours>35</NumberOfHours>
+    <FinalGrade>Зачет</FinalGrade>
+    <lit:Link>https:=//drive.google.com/drive/predmet04</lit:Link>
+    </myns:item>
+  <myns:item>
+    <Name>Основы технологий разметки (HTML, XML)</Name>
+    <Teacher>Кузьмин К.М.</Teacher>
+    <StartDate>26.06.2023</StartDate>
+    <EndDate>04.07.2023</EndDate>
+    <NumberOfHours>25</NumberOfHours>
+    <FinalGrade>Зачет</FinalGrade>
+    <lit:Link>https:=//drive.google.com/drive/predmet05</lit:Link>
+    </myns:item>
+</myns:TimeTable>

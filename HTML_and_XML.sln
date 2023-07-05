@@ -1,0 +1,133 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. HTML", "1. HTML", "{58C90BD0-D699-474D-AD09-28449FCD457B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{FD4405DE-0B49-4894-B208-86CF00444FF6}"
+	ProjectSection(SolutionItems) = preProject
+		HTML\Task1\ex1.html = HTML\Task1\ex1.html
+		HTML\Task1\ex2.html = HTML\Task1\ex2.html
+		HTML\Task1\ex3.html = HTML\Task1\ex3.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{85C48459-5174-44C6-9F6F-0DDDDFB86192}"
+	ProjectSection(SolutionItems) = preProject
+		HTML\Task2\classification.html = HTML\Task2\classification.html
+		HTML\Task2\code.html = HTML\Task2\code.html
+		HTML\Task2\findings.html = HTML\Task2\findings.html
+		HTML\Task2\index.html = HTML\Task2\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{1545F5FF-B510-4134-928C-1C8934EB3DF7}"
+	ProjectSection(SolutionItems) = preProject
+		HTML\Task3\about_buttons.html = HTML\Task3\about_buttons.html
+		HTML\Task3\classification.html = HTML\Task3\classification.html
+		HTML\Task3\ex4.html = HTML\Task3\ex4.html
+		HTML\Task3\index.html = HTML\Task3\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{2E685D74-3D32-4CAE-9FA8-482F00B64AA1}"
+	ProjectSection(SolutionItems) = preProject
+		HTML\Task4\ex5.html = HTML\Task4\ex5.html
+		HTML\Task4\table.html = HTML\Task4\table.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{8C74EFEC-B748-4A10-AAB3-16DB236EE42B}"
+	ProjectSection(SolutionItems) = preProject
+		HTML\Task5\classification.html = HTML\Task5\classification.html
+		HTML\Task5\ex6.html = HTML\Task5\ex6.html
+		HTML\Task5\index.html = HTML\Task5\index.html
+		HTML\Task5\map.html = HTML\Task5\map.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{C8AF61CA-8E15-43E3-90D3-99F38D0005AE}"
+	ProjectSection(SolutionItems) = preProject
+		HTML\Task6\ex7.html = HTML\Task6\ex7.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{752C0B02-07BD-4463-96F2-B9ECF87A54D7}"
+	ProjectSection(SolutionItems) = preProject
+		HTML\Task7\block_1.html = HTML\Task7\block_1.html
+		HTML\Task7\block_2.html = HTML\Task7\block_2.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. CSS", "2. CSS", "{C2912DD0-2C90-4157-A0BE-51F19406AA59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{EABD5C38-F306-444B-B7D1-261AF0B42953}"
+	ProjectSection(SolutionItems) = preProject
+		CSS\Task1\classification.html = CSS\Task1\classification.html
+		CSS\Task1\index.html = CSS\Task1\index.html
+		CSS\Task1\style.css = CSS\Task1\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{54D128E9-B50C-4A70-BBCE-49FD7FE77F1B}"
+	ProjectSection(SolutionItems) = preProject
+		CSS\Task2\about_buttons.html = CSS\Task2\about_buttons.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{DA55C719-C0B7-40A9-9B3E-A96DEF43ED8B}"
+	ProjectSection(SolutionItems) = preProject
+		CSS\Task3\gallery.html = CSS\Task3\gallery.html
+		CSS\Task3\textFormat_1.html = CSS\Task3\textFormat_1.html
+		CSS\Task3\textFormat_2.html = CSS\Task3\textFormat_2.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{3A90F879-54B5-41B6-A284-D5873D718E60}"
+	ProjectSection(SolutionItems) = preProject
+		CSS\Task4\form.html = CSS\Task4\form.html
+		CSS\Task4\table.html = CSS\Task4\table.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. XML", "3. XML", "{3FEB4616-8DE5-4115-993A-914ADFC52BBF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{015BB32C-A219-4B10-8E74-7806256495A9}"
+	ProjectSection(SolutionItems) = preProject
+		XML\Task1\lessons-ns.xml = XML\Task1\lessons-ns.xml
+		XML\Task1\lessons.xml = XML\Task1\lessons.xml
+		XML\Task1\resume.xml = XML\Task1\resume.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{C5976F3B-6A28-43F1-AE0D-2C09D308C59C}"
+	ProjectSection(SolutionItems) = preProject
+		XML\Task2\lessons.xml = XML\Task2\lessons.xml
+		XML\Task2\lessons_DTD.dtd = XML\Task2\lessons_DTD.dtd
+		XML\Task2\library.xml = XML\Task2\library.xml
+		XML\Task2\library_DTD.dtd = XML\Task2\library_DTD.dtd
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{7DFCDF90-B01E-4A97-A7B0-915C3164CF71}"
+	ProjectSection(SolutionItems) = preProject
+		XML\Task3\lessons.xml = XML\Task3\lessons.xml
+		XML\Task3\lessons_XML.xsd = XML\Task3\lessons_XML.xsd
+		XML\Task3\resume.xml = XML\Task3\resume.xml
+		XML\Task3\resume_complex.xml = XML\Task3\resume_complex.xml
+		XML\Task3\resume_complex_XML.xsd = XML\Task3\resume_complex_XML.xsd
+		XML\Task3\resume_XML.xsd = XML\Task3\resume_XML.xsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FD4405DE-0B49-4894-B208-86CF00444FF6} = {58C90BD0-D699-474D-AD09-28449FCD457B}
+		{85C48459-5174-44C6-9F6F-0DDDDFB86192} = {58C90BD0-D699-474D-AD09-28449FCD457B}
+		{1545F5FF-B510-4134-928C-1C8934EB3DF7} = {58C90BD0-D699-474D-AD09-28449FCD457B}
+		{2E685D74-3D32-4CAE-9FA8-482F00B64AA1} = {58C90BD0-D699-474D-AD09-28449FCD457B}
+		{8C74EFEC-B748-4A10-AAB3-16DB236EE42B} = {58C90BD0-D699-474D-AD09-28449FCD457B}
+		{C8AF61CA-8E15-43E3-90D3-99F38D0005AE} = {58C90BD0-D699-474D-AD09-28449FCD457B}
+		{752C0B02-07BD-4463-96F2-B9ECF87A54D7} = {58C90BD0-D699-474D-AD09-28449FCD457B}
+		{EABD5C38-F306-444B-B7D1-261AF0B42953} = {C2912DD0-2C90-4157-A0BE-51F19406AA59}
+		{54D128E9-B50C-4A70-BBCE-49FD7FE77F1B} = {C2912DD0-2C90-4157-A0BE-51F19406AA59}
+		{DA55C719-C0B7-40A9-9B3E-A96DEF43ED8B} = {C2912DD0-2C90-4157-A0BE-51F19406AA59}
+		{3A90F879-54B5-41B6-A284-D5873D718E60} = {C2912DD0-2C90-4157-A0BE-51F19406AA59}
+		{015BB32C-A219-4B10-8E74-7806256495A9} = {3FEB4616-8DE5-4115-993A-914ADFC52BBF}
+		{C5976F3B-6A28-43F1-AE0D-2C09D308C59C} = {3FEB4616-8DE5-4115-993A-914ADFC52BBF}
+		{7DFCDF90-B01E-4A97-A7B0-915C3164CF71} = {3FEB4616-8DE5-4115-993A-914ADFC52BBF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C2724C-3181-4735-9343-05A30D43B51B}
+	EndGlobalSection
+EndGlobal

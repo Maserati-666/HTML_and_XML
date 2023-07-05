@@ -1,0 +1,9 @@
+<!ELEMENT lessons (discipline+)>
+<!ELEMENT discipline (Name, Teacher, StartDate, EndDate, NumberOfHours, FinalGrade)> 
+<!ATTLIST discipline id CDATA #REQUIRED>
+<!ELEMENT Name (#PCDATA)> 
+<!ELEMENT Teacher (#PCDATA)> 
+<!ELEMENT StartDate (#PCDATA)> 
+<!ELEMENT EndDate (#PCDATA)> 
+<!ELEMENT NumberOfHours (#PCDATA)>
+<!ELEMENT FinalGrade (#PCDATA)>

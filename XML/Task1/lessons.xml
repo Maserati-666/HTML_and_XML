@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lessons>
+  <discipline id = "1">
+    <Name>Технологии программирования</Name>
+    <Teacher>Ямщиков Д.В.</Teacher>
+    <StartDate>27.03.2023</StartDate>
+    <EndDate>11.04.2023</EndDate>
+    <NumberOfHours>45</NumberOfHours>
+    <FinalGrade>Зачет</FinalGrade>
+  </discipline>
+  <discipline id = "2">
+    <Name>Программирование на C#</Name>
+    <Teacher>Осипов Н.А.</Teacher>
+    <StartDate>13.04.2023</StartDate>
+    <EndDate>04.05.2023</EndDate>
+    <NumberOfHours>50</NumberOfHours>
+    <FinalGrade>Зачет</FinalGrade>
+  </discipline>
+  <discipline id = "3">
+    <Name>Разработка Windows-приложений на C#</Name>
+    <Teacher>Смольянинов А.В.</Teacher>
+    <StartDate>10.05.2023</StartDate>
+    <EndDate>31.05.2023</EndDate>
+    <NumberOfHours>50</NumberOfHours>
+    <FinalGrade>Экзамен</FinalGrade>
+  </discipline>
+  <discipline id = "4">
+    <Name>Введение в базы данных</Name>
+    <Teacher>Осетрова И.С.</Teacher>
+    <StartDate>05.06.2023</StartDate>
+    <EndDate>23.06.2023</EndDate>
+    <NumberOfHours>35</NumberOfHours>
+    <FinalGrade>Зачет</FinalGrade>
+  </discipline>
+  <discipline id = "5">
+    <Name>Основы технологий разметки (HTML, XML)</Name>
+    <Teacher>Кузьмин К.М.</Teacher>
+    <StartDate>26.06.2023</StartDate>
+    <EndDate>04.07.2023</EndDate>
+    <NumberOfHours>25</NumberOfHours>
+    <FinalGrade>Зачет</FinalGrade>
+  </discipline>
+</lessons>

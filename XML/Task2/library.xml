@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE library SYSTEM "library_DTD.dtd">
+<library>
+  <book_catalog>
+    <book id="b1" isbn="978-5-699-12014-7" year="1999" issue="original">
+      <authors>
+        <author>Пушкин А.С.</author>
+      </authors>
+      <title>Евгенией Онегин</title>
+      <publishing>Просвещение</publishing>
+      <annotation>Роман</annotation>
+    </book>
+    <book id="b2" isbn="998-5-821-12854-1" year="2010" issue="original">
+      <authors>
+        <author>Лермонтов М.В.</author>
+      </authors>
+      <title>Мцыри</title>
+      <publishing>Красный квадрат</publishing>
+      <annotation>Повесть</annotation>
+    </book>
+    <book id="b3" isbn="123-4-521-12345-2" year="1993">
+      <authors>
+        <author>Шекспир В.</author>
+      </authors>
+      <title>Ромео и Джульета</title>
+      <publishing>Квадро</publishing>
+      <annotation>&linux;&internet;</annotation>
+    </book>
+    <book id="b4" isbn="123-5-123-45678-9" year="2008" issue="original">
+      <authors>
+        <author>Пушкин А.С.</author>
+        <author>Лермонтов М.В.</author>
+      </authors>
+      <title>Стихи</title>
+      <publishing>Библио</publishing>
+      <annotation>Сборник стихов</annotation>
+    </book>
+  </book_catalog>
+  <author_catalog>
+    <author_book idref="b1">Пушкин А.С.</author_book>
+    <author_book idref="b2">Лермонтов М.В.</author_book>
+    <author_book idref="b3">Шекспир В.</author_book>
+    <author_book idref="b4">Пушкин А.С.</author_book>
+    <author_book idref="b4">Лермонтов М.В.</author_book>
+  </author_catalog>
+</library>
